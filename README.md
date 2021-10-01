@@ -1,3 +1,2 @@
-Hii, I am Satyam Kumar currently pursuing B.E from Chandigarh University with computer science and engineering and specilisation is Information security.
-I have good programming knowledge along with different skills such as web devlopement,web security applications,Ethical hacking ,programming and many more..
-
+This is the portfolio website which belongs to me by using HTML and CSS we are creating this website it has my resume in it and it is a gordious looking website .
+you can also check this website online at the given link :-http://techsatyamkumar.me/
